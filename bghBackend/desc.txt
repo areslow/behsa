@@ -1,0 +1,11 @@
+folders...
+
+Domain : 
+	contains all application models i.e entities and other models
+
+
+Application :
+	includes service definitions, other interfaces and definitions can be put here
+
+Infra : 
+    implementation of application
